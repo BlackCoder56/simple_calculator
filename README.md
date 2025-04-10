@@ -5,7 +5,7 @@ A simple Python-based calculator that supports basic operations such as addtion,
 ## Features
 
 - **Addition**: Adds two numbers.
-- **Subtraction**: Subtracts the secoond number from the first.
+- **Subtraction**: Subtracts the second number from the first.
 - **Multiplication**: Multiplies two numbers.
 - **Division**: Divides the first number by the second, with error handling for division by zero.
 - **Error Handling**: Return appropriate error messages for invalid input and division by zero
